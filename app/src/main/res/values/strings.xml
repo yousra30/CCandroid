@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">currency converter</string>
+    <string name="amount_in_dollars">amount in dollars</string>
+    <string name="click_to_convert">Click to convert</string>
+</resources>
